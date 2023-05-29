@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! I'm Lina, and I love building amazing things with code. 
 <!-- Here you'll find a collection of my personal projects, contributions to open-source, and more. Feel free to explore, star, and fork any repositories that catch your interest. -->
 
-## 🔭 Current Projects
-<!-- 
+<!-- ## 🔭 Current Projects
+
 - [Project 1](link-to-project): A brief description of project 1.
 - [Project 2](link-to-project): A brief description of project 2.
 - [Project 3](link-to-project): A brief description of project 3. -->
